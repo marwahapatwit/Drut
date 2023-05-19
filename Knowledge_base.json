@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello!"
+    },
+    {
+      "question": "Whats my name",
+      "answer": "Pranav"
+    },
+    {
+      "question": "What is the capitol of France",
+      "answer": "Paris"
+    },
+    {
+      "question": "What is Pranav's IP address",
+      "answer": "Pranav's IP Address: 10.1.10.174, MAC Address: F4-4E-E3-95-84-8B, Hostname: BY2134M59204744"
+    },
+    {
+      "question": "help",
+      "answer": "still learning"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "whats up",
+      "answer": "hello"
+    },
+    {
+      "question": "ip address",
+      "answer": "Can you please provide the name of who's IP Address you are trying to find?"
+    },
+    {
+      "question": "who do i work with",
+      "answer": "simon and sumit"
+    },
+    {
+      "question": "who is in my office",
+      "answer": "sumit and simon"
+    },
+    {
+      "question": "pranav",
+      "answer": "Pranav's IP Address: 10.1.10.174, MAC Address: F4-4E-E3-95-84-8B, Hostname: BY2134M59204744"
+    },
+    {
+      "question": "who is in my office",
+      "answer": "sumit and simon"
+    },
+    {
+      "question": "pranav",
+      "answer": "Pranav's IP Address: 10.1.10.174, MAC Address: F4-4E-E3-95-84-8B, Hostname: BY2134M59204744"
+    }
+  ]
+}
